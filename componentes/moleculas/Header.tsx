@@ -14,7 +14,6 @@ const Header = () => {
         autoPlay
         playsInline
       ></video>
-      {/* <img src="/cartel.jpg" className="video" alt="" /> */}
       <MenuAvatar/>
 
       <Navegacion />
