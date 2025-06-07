@@ -1582,6 +1582,7 @@ todo antes del desastre
 
 
 */
+
 .title-confiteria {
   font-size: 4rem;
   font-weight: bold;
@@ -1598,13 +1599,12 @@ todo antes del desastre
   border-radius: 2rem;
 }
 .snack-image {
-  width: 15rem;
-  height: 15rem;
+  width: 14rem;
+  height: 14rem;
   margin: 1rem;
   border-radius: 2rem;
 }
 .snack-info {
-  padding: 1rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -1748,7 +1748,7 @@ todo antes del desastre
   display: flex;
 }
 .pipo-pipo {
-  width: 9rem;
+  width: 7.7rem;
 }
 .centrar-pago {
   display: flex;
